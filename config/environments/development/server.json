@@ -1,13 +1,10 @@
 {
-  "host": "127.0.0.1",
+  "host": "ezellfrazier.com/api",
   "port": 1337,
   "autoReload": {
     "enabled": true
   },
   "cron": {
     "enabled": false
-  },
-  "admin": {
-    "path": "/dashboard"
   }
 }
